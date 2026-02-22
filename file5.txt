@@ -1,0 +1,1 @@
+Testing commit without co-author trailer.
